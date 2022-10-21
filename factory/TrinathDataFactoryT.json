@@ -1,0 +1,9 @@
+{
+	"name": "TrinathDataFactoryT",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "61cb070d-973e-4bce-98d7-27cdeb3a2a48",
+		"tenantId": "00d93b92-3610-4b9d-8224-8a0333e9232d"
+	}
+}
